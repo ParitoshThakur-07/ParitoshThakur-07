@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paritosh Thakur</h1>
 <h3 align="center">An AI enthusiast and Web Developer . Always ready to collaborate on innovative projects which aim to bring a positive change to the world.</h3>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **NEXTJS**
 
 - 🤝 I’m looking for help with **DSA**
 
